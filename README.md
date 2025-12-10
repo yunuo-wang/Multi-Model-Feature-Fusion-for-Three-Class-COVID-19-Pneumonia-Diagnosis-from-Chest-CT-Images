@@ -1,0 +1,2 @@
+# Multi-Model-Feature-Fusion-for-Three-Class-COVID-19-Pneumonia-Diagnosis-from-Chest-CT-Images
+This repository contains the code for my BENG 4450/5450 Biomedical Image Processing &amp; Analysis coding project. The goal is to improve three-class chest CT slice classification (COVID-19, community-acquired pneumonia (CAP), and Normal) by combining complementary neural architectures at the feature level.
